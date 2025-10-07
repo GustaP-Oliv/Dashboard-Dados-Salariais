@@ -1,0 +1,8 @@
+pandas Version: 2.3.3
+plotly Version: 6.3.0
+streamlit Version: 1.50.0
+matplotlib.pyplot Version: 3.10.6
+seaborn Version: 0.13.2
+Python Python 3.13.7
+Kaggle internet (manual)
+# https://www.kaggle.com/datasets/mohithsairamreddy/salary-data/data (tabela)
